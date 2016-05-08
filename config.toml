@@ -1,4 +1,4 @@
-baseurl = "https://dominikfrick.github.io/testblog"
+baseurl = "http://hugo-wercker.ig.nore.me"
 languageCode = "en-us"
 title = "The Title"
 theme = "beautifulhugo"
